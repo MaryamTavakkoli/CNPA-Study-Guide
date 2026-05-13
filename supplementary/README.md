@@ -12,6 +12,8 @@ These podcast-style episodes complement the written study material. Listen to th
 
 **Download:** [The_CNCF_Platform_Engineering_Maturity_Model.m4a](https://github.com/MaryamTavakkoli/cnpa-study-guide/releases/download/v1.0/The_CNCF_Platform_Engineering_Maturity_Model.m4a)
 
+**Reference:** [CNCF Platform Engineering Maturity Model](https://github.com/MaryamTavakkoli/cnpa-study-guide/blob/main/supplementary/README.md)
+
 **Read alongside:**
 - [Platform Architecture and Capabilities](../01-platform-engineering-core-fundamentals/04-platform-architecture.md)
 - [Platform Goals, Objectives, and Approaches](../01-platform-engineering-core-fundamentals/05-platform-goals-and-objectives.md)
