@@ -1,5 +1,9 @@
 # Platform Engineering Goals, Objectives, and Approaches
 
+> **Podcast episodes for this topic:**
+> - [Episode 1: The CNCF Platform Engineering Maturity Model](https://github.com/MaryamTavakkoli/cnpa-study-guide/releases/download/v1.0/The_CNCF_Platform_Engineering_Maturity_Model.m4a)
+> - [Episode 2: CNCF Platforms White Paper](https://github.com/MaryamTavakkoli/cnpa-study-guide/releases/download/v1.0/CNCF.Platforms.White.Paper.m4a)
+
 ## Why Platform Engineering Exists
 
 As organizations scale their cloud-native adoption, developers face increasing complexity:

@@ -32,6 +32,19 @@ This repository contains structured study material covering every domain of the 
 
 ---
 
+## Supplementary Audio
+
+Podcast-style episodes to listen to alongside the written material.
+
+| Episode | Topic | Download |
+|---|---|---|
+| 1 | The CNCF Platform Engineering Maturity Model | [.m4a](https://github.com/MaryamTavakkoli/cnpa-study-guide/releases/download/v1.0/The_CNCF_Platform_Engineering_Maturity_Model.m4a) |
+| 2 | CNCF Platforms White Paper | [.m4a](https://github.com/MaryamTavakkoli/cnpa-study-guide/releases/download/v1.0/CNCF.Platforms.White.Paper.m4a) |
+
+Full episode details and reading links: [supplementary/README.md](./supplementary/README.md)
+
+---
+
 ## How to Use This Guide
 
 1. Work through domains **in order** — earlier domains provide foundation for later ones.
